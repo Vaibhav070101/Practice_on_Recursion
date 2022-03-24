@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SortAnArray",
+            "request": "launch",
+            "mainClass": "SortAnArray",
+            "projectName": "Practice_on_Recursion_d4955dd"
+        },
+        {
+            "type": "java",
             "name": "Launch power",
             "request": "launch",
             "mainClass": "power",
