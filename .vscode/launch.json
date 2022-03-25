@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch delFromMid",
+            "request": "launch",
+            "mainClass": "delFromMid",
+            "projectName": "Practice_on_Recursion_d4955dd"
+        },
+        {
+            "type": "java",
             "name": "Launch sortAnStack",
             "request": "launch",
             "mainClass": "sortAnStack",
